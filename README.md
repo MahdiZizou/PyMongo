@@ -6,4 +6,5 @@ Here we learn basics of pyMongo module in python
 To use main.py:
 - first install MongoDB: https://www.mongodb.com/try/download/community
 - second install Robo 3T: https://robomongo.org/
+
 After installing above items, you can use main.py and make your own database. :)
